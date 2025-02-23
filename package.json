@@ -13,6 +13,7 @@
   "author": "Ankit",
   "license": "ISC",
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "parcel": "^2.12.0",
     "postcss": "^8.4.49",
     "process": "^0.11.10",
